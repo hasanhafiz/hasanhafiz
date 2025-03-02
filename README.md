@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Hasan Hafiz! 👋  
 
-<!--
-**hasanhafiz/hasanhafiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Web Developer | PHP | Laravel | FilamentPHP | Wordpress | Bootstrap | TailwindCSS**  
 
-Here are some ideas to get you started:
+🌱 Passionate about **developing robust, high-performance applications** using cutting-edge web technologies. Also Committed to develop fast, scalable, and reliable applications with state-of-the-art web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently working on:**  
+- 🚀 Developing **Automated Image Processing** (Automated 100+ employee image processing task) with **Laravel + Livewire + FilamentPHP + TailwindCSS**.
+- 🚀 Creating **visually stunning and captivating graphic design websites** that showcase creativity and leave a lasting impression using **Wordpress**.
+- 🚀 Building **elegant, high-converting eCommerce websites** with a seamless shopping experience using **Wordpress**
+
+
+💡 **Key Skills:**  
+- Backend: **PHP, Laravel, Livewire, FilamentPHP, Wordpress, Drupal, MySQL**  
+- Frontend: **Javascript, jQuery, TailwindCSS, Bootstrap**  
+- DevOps: **GitHub, Pantheon, CI/CD pipeline, WebSockets**  
+- Testing: **PHPUnit, Pest, Laravel Pint**  
+
+📫 **Let's Connect!**
+🌍 [Website](https://dev-hasanhafiz.pantheonsite.io) |  💻 [GitHub](https://github.com/hasanhafiz)  
+
+🚀 **Top Projects:**  
+
+🔹 [IDEAS - Interactive Data Entry and Approval System ](https://pidimfoundation.xyz/)  
+🔹 [CAAR - Comprehensive Audit & Auto Reporting](https://caar.pidimfoundation.xyz)  
+🔹 [grameenphone](https://www.grameenphone.com/)  
+
+🚀 **PHP OOP Projects:**  
+
+🚀 **Top Laravel Projects:**  
+
+🚀 **Top Wordpress Projects:**
+
+🚀 **Top Drupal Projects:**  
+
+🔥 **Let's build something amazing together!**  
