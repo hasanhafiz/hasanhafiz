@@ -1,6 +1,7 @@
 # Hi, I'm Hasan Hafiz! 👋  
 
 🚀 **Full-Stack Web Developer | PHP | Laravel | FilamentPHP | Wordpress | Drupal | Bootstrap | TailwindCSS**  
+
 🔔 After 10+ years of experience as a Drupal Developer I am **Transitioning my career from Drupal CMS to Laravel to enhance my ability to develop efficient, dynamic, scalable applications** with its elegant syntax, robust features, and developer-friendly tools.
 
 🌱 Passionate about **developing robust, high-performance applications** using cutting-edge web technologies. Also Committed to develop fast, scalable, and reliable applications with state-of-the-art web technologies.
