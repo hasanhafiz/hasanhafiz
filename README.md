@@ -1,4 +1,4 @@
-# Hi, I'm Hasan Hafiz! 👋  
+![image](https://github.com/user-attachments/assets/3daf41d4-63b4-4ad0-ad90-1f48d19680e8)# Hi, I'm Hasan Hafiz! 👋  
 
 🚀 **Full-Stack Web Developer | PHP | Laravel | FilamentPHP | Wordpress | Drupal | Bootstrap | TailwindCSS**  
 
@@ -19,7 +19,7 @@
 - Testing: **PHPUnit, Pest, Laravel Pint**  
 
 📫 **Let's Connect!**
-🌍 [Website](https://dev-hasanhafiz.pantheonsite.io) |  💻 [GitHub](https://github.com/hasanhafiz)  |  💻 [Youtube](https://www.youtube.com/@filament-bd)  
+🌍 [Website](https://dev-hasanhafiz.pantheonsite.io) |  💻 [GitHub](https://github.com/hasanhafiz)  | 📀 [Youtube](https://www.youtube.com/@filament-bd)  
 
 🚀 **Top Projects:**  
 
