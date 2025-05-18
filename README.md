@@ -23,9 +23,9 @@
 
 🚀 **Top Projects:**  
 
-🔹 [PixTrack - Automated  image ordering, processing, invoicing task ](https://github.com/hasanhafiz/Pixtrack)
-🔹 [IDEAS - Interactive Data Entry and Approval System ](https://pidimfoundation.xyz/)
-🔹 [CAAR - Comprehensive Audit & Auto Reporting](https://caar.pidimfoundation.xyz)
+🔹 [PixTrack - Automated  image ordering, processing, invoicing task ](https://github.com/hasanhafiz/Pixtrack)  
+🔹 [IDEAS - Interactive Data Entry and Approval System ](https://pidimfoundation.xyz/)  
+🔹 [CAAR - Comprehensive Audit & Auto Reporting](https://caar.pidimfoundation.xyz)  
 🔹 [grameenphone](https://www.grameenphone.com/)  
 
 🚀 **PHP OOP Projects:**  
