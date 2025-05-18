@@ -26,14 +26,28 @@
 🔹 [PixTrack - Automated  image ordering, processing, invoicing task ](https://github.com/hasanhafiz/Pixtrack)  
 🔹 [IDEAS - Interactive Data Entry and Approval System ](https://pidimfoundation.xyz/)  
 🔹 [CAAR - Comprehensive Audit & Auto Reporting](https://caar.pidimfoundation.xyz)  
-🔹 [grameenphone](https://www.grameenphone.com/)  
+
 
 🚀 **PHP OOP Projects:**  
 
-🚀 **Top Laravel Projects:**  
+🚀 **Top Web Applications:**  
+
+🔹 [IDEAS - Interactive Data Entry and Approval System ](https://pidimfoundation.xyz/)  
+🔹 [CAAR - Comprehensive Audit & Auto Reporting](https://caar.pidimfoundation.xyz)  
+
 
 🚀 **Top Wordpress Projects:**
 
+🔹 [Edhat | Local News From Your Community](https://www.edhat.com/)  
+🔹 [Rehnuma Ltd   (Interior Design Website)](https://dev-rehnumaltd.pantheonsite.io/)  
+🔹 [Fazila Group](http://www.fazilagroup.com/)  
+
+
 🚀 **Top Drupal Projects:**  
+
+🔹 [Grameenphone](https://www.grameenphone.com/)  
+🔹 [Sky Blue Photography](https://www.skybluephotography.co.uk/)  
+🔹 [Techno Plast Consultancy](http://technopc.net/)  
+
 
 🔥 **Let's build something amazing together!**  
