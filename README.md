@@ -48,6 +48,9 @@
 🔹 [Grameenphone](https://www.grameenphone.com/)  
 🔹 [Sky Blue Photography](https://www.skybluephotography.co.uk/)  
 🔹 [Techno Plast Consultancy](http://technopc.net/)  
+🔹 [Photo Touch Expert (Graphics design firm)](http://www.phototouchexpert.com/)  
+🔹 [Xplantr (Software Development Firm))](https://www.xplantr.com/)  
+ 
 
 
 🔥 **Let's build something amazing together!**  
